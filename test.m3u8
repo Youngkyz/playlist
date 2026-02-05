@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="bbb" tvg-name="Big Buck Bunny" group-title="Test Movies",Big Buck Bunny (HLS Test)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="sintel" tvg-name="Sintel" group-title="Test Movies",Sintel (Open Movie)
+https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tears" tvg-name="Tears of Steel" group-title="Test Movies",Tears of Steel
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="art" tvg-name="Art of Motion" group-title="Test Movies",Art of Motion (Red Bull Demo)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
